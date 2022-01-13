@@ -1,0 +1,1 @@
+Potrebno unijeti path za zvukove, meni je radilo samo ako je path "D:// ** "

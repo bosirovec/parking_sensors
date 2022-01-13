@@ -1,0 +1,5 @@
+﻿  crtanje_quickstart.cpp
+c:\users\korisnik\desktop\parkingsensorswindows\crtanje_quickstart.cpp(60): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\korisnik\desktop\parkingsensorswindows\crtanje_quickstart.cpp(162): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\korisnik\desktop\parkingsensorswindows\crtanje_quickstart.cpp(187): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

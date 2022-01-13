@@ -1,0 +1,9 @@
+﻿  crtanje_quickstart.cpp
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp(318,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp(510,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp(538,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp(685,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\crtanje_quickstart.cpp(710,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ParkingSensors.vcxproj -> D:\FERIT\4g\OKAAP\KV\ParkingSensorsWindows\ParkingSensorsWindows\Debug\ParkingSensors.exe
